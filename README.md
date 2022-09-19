@@ -16,4 +16,8 @@ MPRA_library_scripts<br>
 
 ENCODE_MPRA_HEPG2<br>
 
+## File and scripts for genomic analyses are in:<br>
+
+Genomic_Analysis
+
 
