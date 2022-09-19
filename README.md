@@ -1,6 +1,6 @@
 # Manuscript: Transcription factor binding site orientation and order are major drivers of gene regulatory activity<br>
 
-![alt text](Resources/Schematic.png)
+![alt text](https://github.com/IliasGeoSo/TFBSs_grammar/Resources/Schematic.png?raw=true)
 /
 
 ## MPRA data generation in:<br>
