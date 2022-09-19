@@ -5,19 +5,14 @@
 
 ## MPRA data generation in:<br>
 
-MPRA_library_data<br>
-
-
-## Scripts for the analysis of the MPRA data in :<br>
-
-MPRA_library_scripts<br>
+### MPRA_library_data<br>
 
 ## Files and scripts for the analysis of the ENCODE MPRA on HEPG2 are in:<br>
 
-ENCODE_MPRA_HEPG2<br>
+### ENCODE_MPRA_HEPG2<br>
 
 ## File and scripts for genomic analyses are in:<br>
 
-Genomic_Analysis
+### Genomic_Analysis
 
 
