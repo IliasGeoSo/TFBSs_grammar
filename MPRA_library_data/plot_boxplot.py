@@ -37,12 +37,3 @@ sns.stripplot(data = df,
 				jitter = 0,
 				palette="husl"
 				)
-
-add_stat_annotation(ax, 
-					data=df, 
-					x='dir', 
-					y='log', 
-					order=order,
-					box_pairs=[('Non-Template', 'Divergent'), ('Non-Template', 'Convergent'), ('Convergent', 'Divergent'), ('Convergent', 'Template'), ('Template', 'Divergent'),('Non-Template', 'Template')],
-					test='t-test_ind'
-					)
