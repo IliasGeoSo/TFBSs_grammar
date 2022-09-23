@@ -16,4 +16,4 @@ Library_MPRA_TFBSs.txt<br>
 Plot with plot_boxplot.py
 
 ## the folder all_triplets_sorted.zip contains files for TFBS triplet analysis<br>
-Plot with plot_triplets.py
+Plot with plot_all_triplets.py
