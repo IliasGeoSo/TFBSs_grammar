@@ -9,8 +9,10 @@ Library_MPRA_TFBSs.txt<br>
 ## qc.py was used to find the correlations<br>
 
 ## occs_folder.zip contains files used for fig1<br>
+Plot with plot_occs.py
 
 ## distances_plots.zip contains files used for fig2<br>
+Plot with plot_distances.py
 
 ## the folder boxplot_pairs.zip contains files for orientation and order effects for TFBS pairs<br>
 Plot with plot_boxplot.py
