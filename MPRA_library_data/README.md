@@ -13,6 +13,7 @@ Library_MPRA_TFBSs.txt<br>
 ## distances_plots.zip contains files used for fig2<br>
 
 ## the folder boxplot_pairs.zip contains files for orientation and order effects for TFBS pairs<br>
+Plot with plot_boxplot.py
 
 ## the folder all_triplets_sorted.zip contains files for TFBS triplet analysis<br>
-
+Plot with plot_triplets.py
