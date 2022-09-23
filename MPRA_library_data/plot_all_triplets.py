@@ -25,11 +25,17 @@ hue_plot_params = {
   'orient': 'h',
   }
 
-sns.boxplot(ax=ax, data=df, x='log', y='dir', order=order, orient='h', showfliers = False, palette='husl',
-      width=0.3,showmeans=False,medianprops=dict(color="orange", alpha=1, linewidth=1), linewidth=0.5)
-for patch in ax.artists:
-  r, g, b, a = patch.get_facecolor()
-  patch.set_facecolor((r, g, b, 0))
+sns.boxplot(ax=ax, 
+            data=df, 
+            x='log', 
+            y='dir', 
+            order=order, 
+            orient='h', 
+            showfliers = False, 
+            palette='husl',
+            width=0.3,
+            showmeans=False,
+            linewidth=0.5)
 
 sns.stripplot(ax=ax, **hue_plot_params, alpha=0.8,size=1.5, jitter=0)
 
